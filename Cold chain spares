@@ -41,3 +41,19 @@ Process Adjustments
 Cold chain Spares: Allow for on-site calibration of sensors and PLC parameters without specialist tools; fan blade balancing during installation.
 
 Cold chain Products: Adjust freezing dwell times based on load; calibrate slicers/graters for yield optimization.
+
+DFMA for cold chain critical spares
+
+The compressor unit must maintain the correct refrigerant flow and pressure to keep target temperatures. It is built through brazing, welding, and precision machining, with tight tolerances on pistons and seals. It operates continuously at -18°C under high load, requires calibration during assembly, and must be packaged in vibration-safe packaging with a sealed moisture barrier.
+
+The evaporator fan motor needs to deliver the required CFM airflow for even cooling. Its manufacturing involves motor winding and rotor balancing, with shaft alignment being critical. It must operate reliably in cold, humid air. Assembly includes balancing and lubrication before fitting, and it is packed with anti-moisture silica gel.
+
+The door gasket ensures seal integrity to prevent warm air ingress. It is made by extrusion or molding with consistent profile thickness, then trimmed to exact length during fitting. It must maintain its insulation seal at all times and be stored without bending or compression.
+
+The temperature sensor (PT100 or thermocouple) must provide accurate readings within ±0.1°C for HACCP compliance. It is produced by fabricating and encapsulating the sensor element, with tight calibration tolerances to ensure stable signals in extreme cold. Calibration is verified before use, and it is packed with ESD and moisture protection.
+
+The PLC control board must provide reliable logic control and I/O for temperature systems. It is made through PCB assembly, soldering, and testing, with fine solder joint tolerances. It runs continuously and undergoes firmware updates before installation. Storage must be ESD-safe.
+
+The vacuum sealer is designed to create an airtight seal for food safety and shelf life. It is assembled with heating elements and aligned sealing jaws to ensure uniform sealing pressure. It must maintain seal integrity across different packaging films, and requires temperature control tuning. Storage should be dry, and shocks should be avoided.
+
+Pls see table enclosed
