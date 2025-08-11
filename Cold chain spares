@@ -1,0 +1,43 @@
+Design for Manufacturability and Assembly (DFMA) checklist that is specific to:
+
+>>Cold chain critical spares (compressor, evaporator fan motor, door gasket, temperature sensor, PLC board, vacuum sealer, heater wire)
+
+>>Cold chain food products (frozen pork, frozen fish, grated mozzarella, chilled beverages).
+
+DFMA Checklist for Cold Chain Spares & Products
+
+Design, Concept, Function, and Sensitivity to Variation
+
+Cold chain Spares: Ensure component design (e.g., compressor casing, evaporator blade pitch) can tolerate manufacturing variation without affecting cooling efficiency or lifespan.
+
+Cold chain Products: Frozen pork/fish cuts designed for consistent size/shape to fit standardized packaging; grated mozzarella shred size controlled to avoid uneven melting; beverage bottle shape ensuring compatibility with automated fillers and chillers.
+
+Manufacturing and/or Assembly Process
+
+Cold chain Spares: Verify that parts can be assembled into existing systems without excessive downtime (e.g., quick-connect fittings for sensors, plug-and-play PLC boards).
+
+Cold chain Products: Ensure portioning, freezing, and packing processes fit current line speeds; minimize product handling to prevent thawing or bacterial growth.
+
+Dimensional Tolerances
+
+Cold chain Spares: Set tolerances for compressor shaft, gasket dimensions, and fan blade clearance to ensure energy efficiency and prevent vibration damage.
+
+Cold chain Products: Consistent frozen pork steak thickness ±2 mm for even freezing; grated mozzarella particle size tolerance to maintain weight accuracy; beverage fill level ±2 ml.
+
+Performance Requirements
+
+Cold chain Spares: Compressor must maintain -18 °C for frozen and 0–4 °C for chilled zones under peak load; fan motor airflow to match evaporator KWH capacity; heater wire must prevent ice buildup without overheating.
+
+Cold chain Products: Pork/fish must retain <0.5% drip loss on thaw; mozzarella must maintain stretch and melt; beverages must hold carbonation and flavor through shelf life.
+
+Number of Components
+
+Cold chain Spares: Reduce part complexity — e.g., integrated temperature probe with cable harness to avoid multiple connectors; modular vacuum sealer seals for quick changeovers.
+
+Cold chain Products: Optimize packaging layers — e.g., remove unnecessary plastic inserts in mozzarella bags, use combined outer cartons for pork/fish.
+
+Process Adjustments
+
+Cold chain Spares: Allow for on-site calibration of sensors and PLC parameters without specialist tools; fan blade balancing during installation.
+
+Cold chain Products: Adjust freezing dwell times based on load; calibrate slicers/graters for yield optimization.
